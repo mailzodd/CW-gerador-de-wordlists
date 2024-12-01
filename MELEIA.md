@@ -10,4 +10,6 @@ como executar: python3 CW.py
 
 3 - depois sera pedida o nome da wordlist
 
+dica: a opcao de palavras-chaves e a mais poderosa, use muito ela
+
 Autor: mailzodd Versao: V1.0
