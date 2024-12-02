@@ -12,4 +12,4 @@ como executar: python3 CW.py
 
 dica: a opcao de palavras-chaves e a mais poderosa, use muito ela
 
-Autor: mailzodd Versao: V1.0
+Autor: matheusilton-dev Versao: V1.0
